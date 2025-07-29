@@ -15,10 +15,10 @@ Disease Intervention Specialist	March 2020 - January 2023
 •	Collaborated effectively within a call center environment, providing exceptional customer service.
 •	Pioneered the strategic implementation of performance metrics, culminating in the successful finalization of over 40% of departmental cases, a testament to meticulous attention to detail.
 •	Positioned at the forefront of contact tracing and emergency response efforts during the pandemic, exemplifying proactive crisis management and resourceful decision-making.
-Indeed	Austin, TX, USA
-Data Research Specialist	July 2018 - December 2019
+Indeed, Austin, TX, USA
+Data Research Specialist, July 2018 - December 2019
 •	Orchestrated the orchestration of automated data workflows, empowering cross-functional teams with the agility to make data-informed decisions and accelerating operational efficacy.
-•	Forged collaborative partnerships with sales, client success, and engineering units, facilitating the seamless exchange of insights, and maximizing data-driven strategies.
+•	Forged collaborative partnerships with sales, client success, and engineering units, facilitating the seamless exchange of insights and maximizing data-driven strategies.
 •	Conceived, executed, and supervised the systematic collection, validation, and integration of data, channeling a relentless pursuit of excellence to drive continuous program enhancement.
 EDUCATION
  
@@ -30,7 +30,7 @@ Programming Analysis Project 	Norcross, GA, USA
 Data Analyst	April 2023 - Present
 •     Programming (Python) is used for deeper analysis and comparisons of multiple files on a project. Classes and Decorators.
 Data Science Analysis Project 	Remote, USA
-Data Analyst	November 2021 - December 2021
+Data Analyst,	November 2021 - December 2021
 •    Data analysis tools (Python) were utilized in understanding the relationships among contributing factors for Data Scientists' annual salaries. Pandas, Seaborn.
 SKILLS & INTERESTS
  
