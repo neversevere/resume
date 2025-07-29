@@ -1,6 +1,7 @@
 NICOLE EVERS-EVERETTE
 +19097368458 | evers.everette.n@gmail.com | https://www.linkedin.com/in/nicole-evers-everette
 https://neversevere.git.io/
+
 PROFESSIONAL EXPERIENCE
  
 Tempus AI	Norcross, GA, USA
