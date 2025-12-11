@@ -4,22 +4,25 @@ NICOLE EVERS-EVERETTE
 DATA ANALYST | STATISTICAL ANALYSIS AND RESEARCH
 
 909-736-8458 | evers.everette.n@gmail.com 
-
+______________________________________________________________________________________________________________________________________________________________________________
 
 CAREER SUMMARY
 
 Certified Data Analyst with 6 + years’ experience turning complex datasets into actionable insights that drive revenue growth and operational efficiency. Articulate communicator with strong team-building skills and ability to coordinate talented individuals to surpass expectations, foster a culture of continuous improvement, and meet critical deadlines. Capable of driving business by establishing and implementing policies, goals, and procedures. Innovative analyst skilled in successfully navigating complex platforms and translating technical information to diverse audiences.
-
+______________________________________________________________________________________________________________________________________________________________________________
 EDUCATION AND CERTIFICATION
 
 Certificate in Data Analytics | Thinkful	2021
 Jackson, MS
+
 BS, Behavioral Neuroscience | Northeastern University	2012
 Boston, MA
+_______________________________________________________________________________________________________________________________________________________________________________
 
 TECHNICAL SKILLS
 
 Coding | Python, SQL | Google G-suite | Microsoft Office | Tableau 
+_______________________________________________________________________________________________________________________________________________________________________________
 
 PROJECTS
 
@@ -29,6 +32,7 @@ Jackson, MS
 •	Analyzed 300,000 + salary data points using Pandas and Seaborn, identifying the top 3 key factors driving compensation disparities across data scientist roles.
 
 •	Illustrating key insights into equitable pay strategies, such as female data scientists were making 80% of what male data scientists were making in San Francisco as of 2021.
+_______
 
 Programming Analysis Project | Tempus AI									     2023
 Norcross, GA
@@ -36,6 +40,7 @@ Norcross, GA
 •	Reduced the dependency of manual work by 40%, by automating file comparison and data quality checks using advanced Python (classes, decorators).
 
 •	Increased efficiency by 30%, reducing the time it takes for items to reach clients.
+_____________________________________________________________________________________________________________________________________________________________________
 
 WORK EXPERIENCE
 
@@ -49,6 +54,7 @@ Norcross, GA
 •	Led training sessions for a cross-functional team of 8 analysts, increasing productivity by 20% through improved data validation workflows.
 
 •	Designed and implemented SQL-based ETL processes, reducing data processing time by 40% and improving reporting accuracy.
+_______
 
 AI Data Annotation Analyst | Telus Digital
 
@@ -58,6 +64,7 @@ Atlanta, GA
 •	Enhanced AI training datasets by 15% through precise text annotation, labeling, and metadata tagging to improve machine interpretation.
 
 •	Categorized and annotated over 40,000 datasets (images, audio, text) for NLP and machine learning models, maintaining >= 95% accuracy.
+_______
 
 Disease Intervention Specialist | Mississippi State Department of Health	
 
@@ -67,6 +74,7 @@ Jackson, MS
 •	Processed 200-300 testing documents daily with 95-99% accuracy, ensuring timely and reliable public health reporting.
 
 •	Introduced performance metrics that increased departmental case closure rates by 40%, improving operational efficiency.
+_______
 
 Data Research Specialist | Indeed	
 
@@ -76,6 +84,7 @@ Austin, TX
 •	Supported 5% of UX Research by analyzing user behavior via eye-tracking and accessibility testing, informing design improvements for web portals.
 
 •	Processed over 21,000 lead generation prospects, delivering actionable insights and strengthening data-driven strategies for cross-collaboration teams (sales, client success, engineering).
+_______________________________________________________________________________________________________________________________________________________________________________________________
 
 PROFESSIONAL DEVELOPMENT
 
