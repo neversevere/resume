@@ -1,47 +1,53 @@
+
 NICOLE EVERS-EVERETTE
+DATA ANALYST | STATISTICAL ANALYSIS AND RESEARCH
+909-736-8458 | evers.everette.n@gmail.com 
 
-+19097368458 | evers.everette.n@gmail.com | https://www.linkedin.com/in/nicole-evers-everette
-https://neversevere.github.io/#
 
-PROFESSIONAL EXPERIENCE
- 
-Tempus AI	Norcross, GA, USA
-Data Analyst 	April 2022 – January 2025
+CAREER SUMMARY
+Certified Data Analyst with 6 + years’ experience turning complex datasets into actionable insights that drive revenue growth and operational efficiency. Articulate communicator with strong team-building skills and ability to coordinate talented individuals to surpass expectations, foster a culture of continuous improvement, and meet critical deadlines. Capable of driving business by establishing and implementing policies, goals, and procedures. Innovative analyst skilled in successfully navigating complex platforms and translating technical information to diverse audiences.
 
-•	Generates comprehensive reports using advanced data analysis tools to provide actionable insights for data-driven decision-making.
-•	Employs cutting-edge techniques to cleanse and harmonize heterogeneous data streams, preparing a robust foundation for thorough analysis.
-•	Conducts rigorous analysis of intricate real-world data access applications, devising strategic solutions for resilient data storage, seamless retrieval, and secure data destruction.
-•	Actively engaged in Quality Assurance (QA) and manual software testing using JIRA, ensuring that our data analysis solutions met the highest standards of accuracy and reliability, in line with TDD best practices
+EDUCATION AND CERTIFICATION
+Certificate in Data Analytics | Thinkful	2021
+Jackson, MS
+BS, Behavioral Neuroscience | Northeastern University	2012
+Boston, MA
 
-Mississippi State Department of Health	Jackson, MS, USA
-Disease Intervention Specialist	March 2020 - January 2023
+TECHNICAL SKILLS
+Coding | Python, SQL | Google G-suite | Microsoft Office | Tableau 
 
-•	Championed the accurate and high-velocity processing of a substantial daily volume of 200-350 testing documents, consistently maintaining an impressive accuracy rate of 95%-99%.
-•	Collaborated effectively within a call center environment, providing exceptional customer service.
-•	Pioneered the strategic implementation of performance metrics, culminating in the successful finalization of over 40% of departmental cases, a testament to meticulous attention to detail.
-•	Positioned at the forefront of contact tracing and emergency response efforts during the pandemic, exemplifying proactive crisis management and resourceful decision-making.
+PROJECTS
+Data Science Salary Analysis | Thinkful								            	     2021
+Jackson, MS
+•	Analyzed 300,000 + salary data points using Pandas and Seaborn, identifying the top 3 key factors driving compensation disparities across data scientist roles.
+•	Illustrating key insights into equitable pay strategies, such as female data scientists were making 80% of what male data scientists were making in San Francisco as of 2021.
 
-Indeed, Austin, TX, USA
-Data Research Specialist, July 2018 - December 2019
+Programming Analysis Project | Tempus AI									     2023
+Norcross, GA
+•	Reduced the dependency of manual work by 40%, by automating file comparison and data quality checks using advanced Python (classes, decorators).
+•	Increased efficiency by 30%, reducing the time it takes for items to reach clients.
 
-•	Orchestrated the orchestration of automated data workflows, empowering cross-functional teams with the agility to make data-informed decisions and accelerating operational efficacy.
-•	Forged collaborative partnerships with sales, client success, and engineering units, facilitating the seamless exchange of insights and maximizing data-driven strategies.
-•	Conceived, executed, and supervised the systematic collection, validation, and integration of data, channeling a relentless pursuit of excellence to drive continuous program enhancement.
+WORK EXPERIENCE
+Data Analyst | Tempus AI	Apr 2022- Jan 2025
+Norcross, GA
+•	Boosted annual contract renewals by 35% (from $9M to $12M) by developing Python automation scripts that streamlined data delivery for ad-hoc and government clients.
+•	Led training sessions for a cross-functional team of 8 analysts, increasing productivity by 20% through improved data validation workflows.
+•	Designed and implemented SQL-based ETL processes, reducing data processing time by 40% and improving reporting accuracy.
 
-EDUCATION
- 
-Northeastern University
-Bachelor of Science (BS), Behavioral Neuroscience (2012)               |                Certifications: Data Analytics | Thinkful (2021)
+AI Data Annotation Analyst | Telus Digital	Aug 2022- Oct 2024
+Atlanta, GA
+•	Enhanced AI training datasets by 15% through precise text annotation, labeling, and metadata tagging to improve machine interpretation.
+•	Categorized and annotated over 40,000 datasets (images, audio, text) for NLP and machine learning models, maintaining >= 95% accuracy.
 
-PROJECTS & OUTSIDE EXPERIENCE
- 
-Programming Analysis Project 	Norcross, GA, USA
-Data Analyst	April 2023 - Present
-•     Programming (Python) is used for deeper analysis and comparisons of multiple files on a project. Classes and Decorators.
-Data Science Analysis Project 	Remote, USA
-Data Analyst,	November 2021 - December 2021
-•    Data analysis tools (Python) were utilized in understanding the relationships among contributing factors for Data Scientists' annual salaries. Pandas, Seaborn.
-SKILLS & INTERESTS
- 
-•	Skills: AWS, Bash, Confluence, Customer Focus Service, Data Analysis, Data Science, Data Structures & Algorithms, Docker, GitHub, Drives Results, Jenkins, JIRA, Jupyter, HTML/CSS, Airflow, Drives Engagement, PowerShell, Linux/Unix, R, MySQL, NumPy, Pandas, Postgres, CRM: Salesforce, Communicates Effectively, SQL, Manages Conflict, Tableau, Python, Operations Research, PowerPoint/Keynote/Slides, Word/Pages/Docs, Excel/Numbers/Sheets, Quality Assurance (QA), Software Testing, Collaborates
+Disease Intervention Specialist | Mississippi State Department of Health	Mar 2020- Jan 2022
+Jackson, MS
+•	Processed 200-300 testing documents daily with 95-99% accuracy, ensuring timely and reliable public health reporting.
+•	Introduced performance metrics that increased departmental case closure rates by 40%, improving operational efficiency.
 
+Data Research Specialist | Indeed								       Jul 2018 – Dec 2019
+Austin, TX
+•	Supported 5% of UX Research by analyzing user behavior via eye-tracking and accessibility testing, informing design improvements for web portals.
+•	Processed over 21,000 lead generation prospects, delivering actionable insights and strengthening data-driven strategies for cross-collaboration teams (sales, client success, engineering).
+
+PROFESSIONAL DEVELOPMENT
+The Complete SQL Course 2025 | Udemy | Remote	2025
